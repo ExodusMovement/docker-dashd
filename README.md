@@ -8,3 +8,4 @@ Branches and releases:
 
   - [0.12.3.2](https://github.com/ExodusMovement/docker-dashd/tree/0.12.3.2)
     - [0.12.3.2-001](https://github.com/ExodusMovement/docker-dashd/tree/0.12.3.2-001)
+    - [0.12.3.2-002](https://github.com/ExodusMovement/docker-dashd/tree/0.12.3.2-002)
