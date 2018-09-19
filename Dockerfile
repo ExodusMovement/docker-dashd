@@ -56,7 +56,7 @@ ENV \
   DASHD_RPC_THREADS=4 \
   DASHD_ARGUMENTS=""
 
-CMD exec DASHD \
+CMD exec dashd \
   -dbcache=$DASHD_DBCACHE \
   -par=$DASHD_PAR \
   -port=$DASHD_PORT \
