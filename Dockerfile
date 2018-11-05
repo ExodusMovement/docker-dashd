@@ -1,6 +1,6 @@
 FROM alpine:3.8 AS builder
 
-ENV BUILD_TAG=0.12.3.2
+ENV BUILD_TAG=0.12.3.3
 
 RUN apk add --no-cache \
   autoconf \
